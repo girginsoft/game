@@ -1,0 +1,16 @@
+{
+  "name": "pokemon-isometric",
+  "version": "1.0.0",
+  "description": "Pokemon Yellow style isometric game",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.60.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
